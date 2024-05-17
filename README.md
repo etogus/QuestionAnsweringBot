@@ -7,7 +7,7 @@ The program does the following:<br/>
 > 4. Ask the user if he wants to play again.<br/>
 > 5. If the response is yes, the program repeats the algorithm. If the response is no, the program terminates.<br/>
 
-<b>Example</b><br/>
+Example<br/>
 > Hello! I'm Jane, a question answering bot who knows answers to all the questions from the 'Jeopardy!' game.<br/>
 > Ask me something!<br/>
 > Spanish for "mask", this cosmetic is used to color the eyelashes.<br/>
