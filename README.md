@@ -8,12 +8,12 @@ The program does the following:<br/>
 > 5. If the response is yes, the program repeats the algorithm. If the response is no, the program terminates.<br/>
 
 <b>Example</b><br/>
-Hello! I'm Jane, a question answering bot who knows answers to all the questions from the 'Jeopardy!' game.<br/>
-Ask me something!<br/>
+> Hello! I'm Jane, a question answering bot who knows answers to all the questions from the 'Jeopardy!' game.<br/>
+> Ask me something!<br/>
 > Spanish for "mask", this cosmetic is used to color the eyelashes.<br/>
-Let's play!<br/>
-I know this question: its number is 10569. I'm 78% sure of this.<br/>
-The answer is mascara.<br/>
-Do you want to ask me again? (yes/no)<br/>
+> Let's play!<br/>
+> I know this question: its number is 10569. I'm 78% sure of this.<br/>
+> The answer is mascara.<br/>
+> Do you want to ask me again? (yes/no)<br/>
 > no<br/>
-It was nice to play with you! Goodbye!<br/>
+> It was nice to play with you! Goodbye!<br/>
