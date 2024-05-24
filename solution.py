@@ -37,7 +37,7 @@ def find_similar_question(q_corpus, u_input, d2v):
     return most_sim, most_sim_question, most_sim_index
 
 
-json_file = open("C:\\Users\\gusey\\Downloads\\jeopardy.json", "r", encoding="utf-8")
+json_file = open("jeopardy.json", "r", encoding="utf-8")
 json_corpus = json.load(json_file)
 
 # DataFrame object from JSON
